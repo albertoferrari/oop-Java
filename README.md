@@ -1,8 +1,6 @@
 # oop-Java
 Object Oriented Programming - Java
 
-Informatica e Laboratorio di Programmazione @ Ingegneria dei Sistemi Informativi, University of Parma
-
 http://albertoferrari.github.io/oop-Java/
 
 Lectures & Java examples
