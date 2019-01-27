@@ -6,3 +6,6 @@
 - [Java il linguaggio](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-01-Java.pdf)
 - [OOP](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-02-OOP.pdf)
 - [Java classi e oggetti](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-03-JavaLanguage.pdf)
+
+### esempi
+- [esempi in Java](https://github.com/albertoferrari/oop-Java/tree/master/esempi)
