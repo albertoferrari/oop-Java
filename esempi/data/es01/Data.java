@@ -1,7 +1,7 @@
 package data;
 
 /**
- * @author cisita
+ * @author A.Ferrari
  * data del 2019
  */
 public class Data {
@@ -13,7 +13,7 @@ public class Data {
 	/** giorno della settimana */
 	private String[] gs = {"lun","mar","mer","gio","ven","sab","dom"};
 	/** giorno della settimana del 1 gennaio */
-	private int GIORNO_01_01 = 1;	// nel 2019 martedì
+	private int GIORNO_01_01 = 1;	// nel 2019 martedÃ¬
 	
 	/**
 	 * default 01/01
@@ -71,7 +71,7 @@ public class Data {
 	/**
 	 * confronto fra date
 	 * @param d	data da confrontare
-	 * @return true se la data d è precedente
+	 * @return true se la data d Ã¨ precedente
 	 */	
 	public boolean maggiore(Data d) {
 		if (this.mese > d.mese)
