@@ -9,6 +9,7 @@
 - [Object Oriented Design](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-04-OOD.pdf)
 - [Package](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-05-utilizzoClassiLocalDate.pdf)
 - [Ereditarietà e Polimorfismo](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-06-ereditarietaPolimorfismo.pdf)
+- [Collezioni](http://albertoferrari.github.io/oop-Java/lezioni/OOPJava-07-collezioni.pdf)
 
 ### esempi
 - [esempi in Java](https://github.com/albertoferrari/oop-Java/tree/master/esempi)
